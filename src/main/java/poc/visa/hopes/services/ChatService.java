@@ -9,7 +9,7 @@ public class ChatService {
     }
     public void receiveMessage()
     {
-        System.out.println("message received from server");
+        System.out.println("message received");
     }
 }
 
